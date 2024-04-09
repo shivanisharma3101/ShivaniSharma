@@ -46,7 +46,7 @@
             </ul>
             <ul class="nav nav-underline justify-content-end ">
                 <li class="nav-item mx-3 "><a href="#about" class="nav-link text-black  ">About</a></li>
-                <li class="nav-item mx-3"><a href="https://github.com/shivanisharma3101/ShivaniSharma/edit/main/README.md"
+                <li class="nav-item mx-3"><a href="">
                         class="nav-link text-black ">Work</a></li>
                 <li class="nav-item mx-3"><a href="#contact" class="nav-link text-black ">Contact</a></li>
                 <li class="nav-item mx-3"><a
